@@ -1,6 +1,6 @@
 # Gerardo's Portfolio
 
-### **Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026**
+### 🛒 **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](https://github.com/FithoGerardo/Urban-Mobility-in-LATAM-Cities/tree/main):** To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
 *Objective*: To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
 *Data*: A unique, curated dataset was built from two different sources, applying data cleaning, standardization, and validation processes to heterogeneous variables.
 *Techniques*: Data manipulation and analysis using Python (Pandas, NumPy, Matplotlib, Seaborn), SQL queries, and descriptive statistics; process documentation in Jupyter Notebook with visualizations and an executive report.
