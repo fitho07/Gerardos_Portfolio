@@ -31,9 +31,19 @@ Data analyst with strong skills in Excel, Google Sheets, SQL, and Python, with p
 
 ## Projects
 ### 🛒 **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](https://github.com/FithoGerardo/Urban-Mobility-in-LATAM-Cities/tree/main)**
+
 To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
 
 * *Objective*: To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
 * *Data*: A unique, curated dataset was built from two different sources, applying data cleaning, standardization, and validation processes to heterogeneous variables.
 * *Techniques*: Data manipulation and analysis using Python (Pandas, NumPy, Matplotlib, Seaborn), SQL queries, and descriptive statistics; process documentation in Jupyter Notebook with visualizations and an executive report.
 * *Result*: It was demonstrated that there is no simple linear correlation between a city’s GDP per capita and its level of vehicular traffic, which made it possible to rethink investment criteria toward variables more relevant for public decision-making.
+
+### 🔍 **[E-commerce Funnel Retention Analysis With SQL | Triple Ten 2026](https://github.com/FithoGerardo/E-commerce-Funnel-Retention-Analysis-With-SQL/tree/main)**
+
+This project focuses on analyzing the full user funnel and retention performance using SQL.
+
+* *Objective*: To optimize the user lifecycle by analyzing the conversion funnel and retention rates to identify friction points and revenue leakage within the platform.
+* *Data*: Processing and cleaning of relational e-commerce datasets (funnel and retention), integrating millions of records of navigation events, transactions, and signup dates segmented by country and device.
+* *Techniques*: Advanced SQL (extensive use of CTEs, complex JOINs, and aggregation functions) for multi-stage Funnel Analysis and Cohort Analysis; calculation of conversion KPIs and retention metrics (D7, D14, D28).
+* *Result*: Identified a critical technical failure in the checkout process for 3 countries (0% conversion) and an 85% drop-off in purchase intent ("Add to Cart"), driving the prioritization of urgent technical fixes and a targeted CRM reactivation strategy to address user churn at Day 28.
